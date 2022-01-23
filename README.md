@@ -1,2 +1,0 @@
-# AnnStudenttspu
-psets
